@@ -1,0 +1,290 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_PreciliaTShirts
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : CAAAAAgAAACZMAJI/QIccjYQc83+d2fEjmP0fpbhg2RXYxOhpzRe2dJJW3BtZWblV3E9GfbldVVh51TbEa7Gzo6nChW9tty0Y87Xz8VFOpbcPtWiY2HPpF8es0YOHehdhoMRoo9jBfUWoySAD27r3rm4gyfnSamDGoQglbkmZaGk4/quJIultSDUnTCX6GhLUCOKhJw1bxzl9g32lLWNkvSubaF8y/La7g/nVaxyXK7Kj7sk44y8Dw4Ee0iR3y2PVhqhXJanWi89bCzoS6ib6A3abxf+LR2za7OHRSVl6ZtKF0P9Ra/BVqDsXKPu2oNhyqyQHwp9VKCs0MhGxZE+9l3XxX3kqRkvFVryoyLNIOrIYck2IhZrmVHTXPN7FIzh2VnSkibrvf5HQcfvPgai5hCD6DTn5I60jFCVBm54dSElI+jhHOvH6JQg6o81aTvMHemZfrEpth8nSBzEjFJwZnKjmj+yU2O87UM1+0fyDkYU7w4Lei0BomLMVqfLZS41M7qu2pBlqEhA1U9zw5mkl4O848gXmYV0mAiSCzjJ6WDQld/vds/dZTEcA/TTEIBNOJIVCFLwryMmlGCs6HVwYUl5LD9tFseu3kDtU1RBw+xcGUx+j8P0bSxQQ4jyl8WlviY1394h6lmzujsv3i1QVHtpk9QSdRh6tzC2MG7xeDLdmRxr16SXxAf9hYYkkr3aufcWLj0Igt+5i6O78YmQr7nDKsXFC+MiCjk7HQTKLpAzWMC3uKCqKXC07ckSqfoOviWYr1SOqk8BiDIegUhLiuyUdqLLN1c3UHbjumcfpNAJXhZ4EFpSzw5O3Q5kkLFbB3X72zszuVK2FMXK5rayaARFnJ1pF5+JsJgDGVh+YiepBHjh0fdWs0NEZj0a5cyDStFHlBUc+AfBy+IT1LAwg+8Lna/U/saRvbO3IwOL3rP7TuIITZHJ66sh/v72nvT8+ba8+xphx7c2QYCsobfculvH5YQkeUomT10jHdMltJqIB6HyHo2CaX8A5eSG/V9whfKiM1FTgJSD77SYE0C7/ifxAa0dRUP4YTv+nfQcsHj2HtdtKh0p0bKCIeKr2qZk8bgEybBNzDH6urHlcatLv/oZyNI6HjhiT4VP0tFmhcUKuwBIc0aiILeJXf6FiP+Of4UdWyBzYXVpze4xO3hZwbRL6Ab+qPoM4A6+gQe30DgnfCfSli/IScmYjPfcfrZ0uwf/+20voJgGD9H/IpNzixTWiWEJ66GbQ9BTEhgq3vtHFO+PKIYcfLfJhGyVXexgjFT5L9xsrFg3kE29bbjuVd2ZTV0fmAHG00NBKIz1ovPm6IZU+QhzR2BnWfOz9kmsFBQJJdPiktPEXe4IgvUFmdba3IJv/GrJZOblICkqXhCvb/FpAPJXwM+gtTSOhc8UEaImQtAP/Ugwzv4T2zhz3NfsRPT1TdUmpZZBBHQBWrSVEE5KNv9VQYYusbMqeYTuWNA6/uRcg1CpslFc7fN+je9q2VaPy5YQpqfZkT9CKz0ib3S65AoSKgOjGopEZHo2ICbtN8FUWt0wdnJ9+Rsmwe4deddKCQC7Pun0vxblvpUFOpNvZR+XIoS6MvcYb94mMImQwaDM6fHQBq4ByaG43N6Jow1pv4k4xTQAjs50pfrs3NqbnG6lR6TgIgT8cxPcvc9mSQMU+VorqD6uy922gVAzJLfG409tBQJyHwCB7laOOCeSNnp2jwT9brLeOsP7bE+xaEpzMXmNz/TUdq351xDcNhgB+bK3cshRq6C1ON/vAgUpbfs4UnOMfdRMx3ZFmb0sRuGaBD5MssvtzFxKF0aFy7jTPCa5MQ2YlF2HNeAo7+1ffV9I8N2LvEv12Yzs4x+eyLr3GkY1GGzF4roB9K88jRz5+lnCcqSlS4Sl7tj7K4YDziXZNqqyAwBAD9jZVc1sam5dh1K1hZx4zncllwoAfN6LoGPy6Esho9x+7D9bGYifVjKtcuYjcCG7wygzq+SrM8Xj0qLWmvYdr2BX5jGhz1+WjPoccu37D9t4p2ooCAEu3dQ4hC/ijZVFv9KDhTtK22bwcJvSmHq7hqo1L6hVD1/uW/FiCTK6zs3NRPl6VzgQms0LlZ0FjMhbtAt0VMbl2fIwKj4y4nC4xUvd9/DJz0JJ/DI94hAyzlM8KxvF7ZxlyWVxuaYsIgBQ3ddWT5vDhPO0cqEFaHReR1SwlyuGVuNxAHJRFBDFi8qtlEHn9Ss3eXfrytPhTg8O+3e4tWULJ47vRiQiEYY0YNHh0HhxEN8fkPYrAlQLRXbI7fc0lqWElUUBztAAbbo1c9h8GZM6yFfZJVySSbkPMbdYR8oD9FZvSCq/OGTTo5ko/P3SilanuanMEq6RYK5LjwpIUS16D018/s+XSRdhJcjbqq6EX8Ir5nJdoB4EHmXGNfp5WcevTt2HdpRsyo/AV7eMVZIgqxq4wYoAG1RMJkJfS6URuOu43L6gbkSzjjmeDtMEgyZgiypWzQ1VcCzNytjZkwxS/64gtiay/+4SONGoGnEf7v5o5rdJERlh+s1t2lSBL2jk29XGkuiV2S9xeMyVAdkcBBq2pDe5z064ZJNjj+78Wl+8PkaQPgeqt8jcWP9w6/RJL+FRVEn7JzGKENkyPzbdhDCQlMSzNewt1MESCvvVIhyjVFHQKtr/BJU9uq0aBdMyaEFYcaa35lvHmmkXgctCoJ1TV0Hpb91wF9hF9ZSkSn69AXwJqVkccLyD7CWKs9/466Y4NjLiZewaF6u4wlzaSeJw83hk3PU+vY2SgQaUztCnrdplmtboqPRR2tFAiSb6Yk5wAegLEtB41W/0Y2XCKnz65W5UWJ3IYQp+rpPAxPfdEFsiuFDucoObklWFRG8zt3LkL4WTOnxUpoqn1Ib1LuXp+ho07Ln2uzBp7EVsQ2DPvvT8sU9KpwZ5NpzKQfjtVaNiinx6MaWwedkJOPOZV/5GtweXj8VN2dtFujYxHJtVSAgQAHaBQcdLjJPSOknQLMKzQyPlt/hfEXrcaRpE2ejzApkBsc89wa82d32oXUrVWvaHE+C/SJSPpaM5d5Tgie31KUG/HlDNRdaNaiJN3u0rtJd8RuFP1pKn3t638rUxDHxr+4vKGuPCVrY+vjY5qDvJoamH2VtACoI3IyaqlY9gtiEidIQvPFaQr+nicXZ6zK5P76cvSflaFwOxCVSlPPQQ7eNBAKKkLZ6ih0RDxiFfZ1rAABPehxcLpFbo92qcarH/97zFf8s9bNQ8LqwB4AttruUIQ87HsD5kdavjNBtG+ksrxyRejwRsRY1y+WeaNDyR8S26HtbQvzNeBDGAZxiXuLxf/jOhwDPfkFFWqdZb2SGaBqxnIOhlNnzJPORHSzrpueP8bDq7qrAw2NZcU97H9Kv2Hf1EPTivWEqDVANiGL4cKLe1ulKWRY/DQiC1/T6JwQCle+WkkSWi3npS6azjLCIoW759kvAhRgac+4BJ2T6MJPtFbix9Ztc6DdkqSOEZZRomwlud0F1tZYGbkkq/Nru5CMtctWapro4xturEjHitRxNi78X9IiiqWUKNNXDGNGG6Qsjk5woZ2R7zGtE8W86nUnDsG4uCH448ben0mkoWNl+c+XNGX5ZRWA8KLGbiKN/Pua2SPRalg69peCkG8zWty7j4a33QwZpVLlJRFcGCDi4Cmx9TBI7ZKP9Nnc6sbmemdqs1IMHwAJxTHlvzNjxDuq/LlqvxJr5ut/H6Kh40oM7/lKF3KK3fjpzbT5yz4x+ApBSbC/KthePYX+Qpnlzwk4W4rfsOI+ASYbcggs5skH+xYpHmF1sFQGMHgxekJiZaIlI+I21QWmimeSk3ZDBHKjBG1RoLIP0SG2KU7g==
+    configuration_id : 15934531967906420364
+    type : 2
+    generation_name : WW_PreciliaTShirts.wdl
+    version : {}
+    index_page_generation_name : store
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x463b781000027b1e
+  elements :
+   -
+     name : PAGETPL_Simple_large
+     identifier : 0x463b7b46001a06f8
+     internal_properties : CAAAAAgAAADxQ++7BMFBUrZQQdyKBO0xGXOQds2Dfb0ZvVlrX0ceiLrRq8aU5EkGmFS/+Ns/+ON0
+     physical_name : .\PAGETPL_Simple_large.wwt
+     type : 65541
+   -
+     name : about
+     identifier : 0x463b91e10023529b
+     internal_properties : CAAAAAgAAABE1we58JmXii5IdsumKfv74btlenl7F+LXQ4CuIQHSsiEuqYP9/olLrpqP726CQzjc783kDioOnOxv47O6SNg3YEjG
+     physical_name : .\about.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : where_to_find_us
+     identifier : 0x463b89bd00218678
+     internal_properties : CAAAAAgAAACHginsXr5nW5hI+fVVHNlsp13Ka03ZAjM+P1V8u6NkXoj5ia8OQkamI+gdRevqqO7L2BngKlOwU1DPS+cH7chXlCGIew==
+     physical_name : .\where_to_find_us.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : faq
+     identifier : 0x463b863c001fd6fe
+     internal_properties : CAAAAAgAAAC8q8YD4xsG+g8ZiIQQX5QHcEKnThJ+aYrdCNP0WnK8Xohp4ReWFcPp1gO85lSRA0umM/yNfwZtjp+emlCoTGv0M0CvRA==
+     physical_name : .\faq.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : PAGETPL_WithTitle
+     identifier : 0x463b835c001d9d07
+     internal_properties : CAAAAAgAAAD+ZNbK+aYOISiFhZ5fp06m2k/pmS5vyB22kUB6t2+le7FtmnOlGwGKibErlR3TryHraw==
+     physical_name : .\PAGETPL_WithTitle.wwt
+     type : 65541
+   -
+     name : store
+     identifier : 0x463b9985002f2b2c
+     internal_properties : CAAAAAgAAABdxOcaJFTNMdbOQ2t3Mj9KTZeYkctPmLmsKl/5W00XLhCBFbNKIG1zbLXrt2VgMnRxBs+6THHSdbZl0Rlxk6KtSl9OJQ==
+     physical_name : .\store.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : contact
+     identifier : 0x463b9429002c3d04
+     internal_properties : CAAAAAgAAACxsPseKGixNcraT5dzPismaaukTRd7VJXY/QA5uh/11BKPVF4/L2Kspfav61GUBkilMuOWYGXOcbJh3RV1n56pRlO6SQ==
+     physical_name : .\contact.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : product
+     identifier : 0x463c663c0034da78
+     internal_properties : CAAAAAgAAACtlNfqVKR9oaa+89unwm+apV9IftKPkMFEOWglOaMS13DxS5n+IsoEbabnWzl0hj8hdrfqHKECJWbVQekB49Jdmi+eVQ==
+     physical_name : .\product.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : general_sale_conditions
+     identifier : 0x4641bddd0178328c
+     internal_properties : CAAAAAgAAADIvxKvn+cilmt9LAiU0xir5B4LIvYSvW4Bq+9nfSZ1dSmJ39f8NnAa8xxIErg936cCl1gh65LxEhMCfrTUMA8Y1+zDsA==
+     physical_name : .\general_sale_conditions.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : QRY_ListStoreProducts
+     identifier : 0x463ccc43007a6340
+     internal_properties : CAAAAAgAAAAoJhAMu+DI055I9g0jKMJ1yrlBSfBWbmK22WGEKmwowAjqWpnQaBuhu2NdW9sV7eMtNQ==
+     physical_name : .\QRY_ListStoreProducts.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WW_EcommerceSiteDatabase.ana\WW_EcommerceSiteDatabase.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : WW_PayBox
+     identifier : 0x465d7c3a00af30d1
+     internal_properties : CAAAAAgAAACKrLGjS893/5csM+Zr/YzrY6KdQcMqSmUBd8aRUQAmESXccxQsTZaAKwf+lIqI2XMYzj6Id3CfjdRzWjG0S+8YV8GbYcjGDQ==
+     wdi_physical_name : .\WW_PayBox.wdi
+     wdk_physical_name : .\WW_PayBox.wdk
+     original_name : \\se\ComplementVI\WEBDEV 21\US\Components\Sample components\WW_PayBox\Exe\Component\WW_PayBox.wdi
+  internal_components :
+   -
+     physical_name : .\EcommercePage\EcommercePage.wci
+   -
+     physical_name : .\ONLINESALEACCOUNT\OnLineSaleAccount.wci
+   -
+     physical_name : .\CustomerSectionPage\CustomerSectionPage.wci
+ data_directory : <RepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 180 Morelia
+ wb_color_palette : Scales & Light
+ site_type : 3
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : about
+     parameters : []
+     title :
+      fr-FR : "PreciliaTShirts - A propos "
+      en-GB : "PreciliaTShirts - About "
+     description :
+      fr-FR : "PreciliaTShirts - A propos "
+      en-GB : "PreciliaTShirts - About "
+   -
+     name : contact
+     parameters : []
+     title :
+      fr-FR : PreciliaTShirts - Contact
+      en-GB : PreciliaTShirts - Contact
+     description :
+      fr-FR : PreciliaTShirts - Contact
+      en-GB : PreciliaTShirts - Contact
+   -
+     name : faq
+     parameters : []
+     title :
+      fr-FR : PreciliaTShirts - FAQ
+      en-GB : PreciliaTShirts - FAQ
+     description :
+      fr-FR : PreciliaTShirts - FAQ
+      en-GB : PreciliaTShirts - FAQ
+   -
+     name : general_sale_conditions
+     parameters : []
+     title :
+      fr-FR : Conditions Générales de Vente
+      en-GB : General sales conditions
+     description :
+      fr-FR : Conditions Générales de Vente
+      en-GB : General sales conditions
+   -
+     name : product
+     parameters : []
+     title :
+      fr-FR : PréciliaTShirts - Page produit
+      en-GB : PreciliaTShirts - Product page
+     description :
+      fr-FR : PréciliaTShirts - Page produit
+      en-GB : PreciliaTShirts - Product page
+   -
+     name : store
+     parameters : []
+     title :
+      fr-FR : PreciliaTShirts
+      en-GB : PreciliaTShirts
+     description :
+      fr-FR : PreciliaTShirts
+      en-GB : PreciliaTShirts
+   -
+     name : where_to_find_us
+     parameters : []
+     title :
+      fr-FR : PreciliaTShirts - Où nous trouver
+      en-GB : PreciliaTShirts - Where to find us
+     description :
+      fr-FR : PreciliaTShirts - Où nous trouver
+      en-GB : PreciliaTShirts - Where to find us
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAATbjyzMZEeLTpPoCU1IHQ2nQk+dCpYow8dG7S2ovfAL72TruqZZBHJycDZgVT7oylb14pAUjtH2BAz6NNQBbZF/GTUjKg=
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAD7hwOBqRcgJassSa/IrCL94jR2RJ/X6KF5+lxKFqGvYXDlXW2sW0lfgnEKQ02EQdTbp8G35H0aZ9Ch5favX1cs8V3JYWgfWQeFthJHsW/eVe8cRU8hl5moIRLPaUcfhnidUTZEjjezknag4PtezyVZ1Pv5n5nkCQUwQStye2R09w==
+     code : |1+
+      
+      CONSTANT
+      	SITE_NAME = "PRECILIA TSHIRTS"
+      	
+      	SITE_POSTAL_ADDRESS = [
+      		3 rue de Puech Villa
+      		34000 MONTPELLIER
+      		FRANCE
+      	]
+      	SITE_GEOPOS_LATITUDE = 43.6396448
+      	SITE_GEOPOS_LONGITUDE = 3.8372963
+      	
+      	SITE_PHONE = "+33 (0)4.67.032.032"
+      	SITE_CONTACT_EMAIL = "info@precilia.com"
+      
+      	// Constant for the characteristics
+      	Characteristic_Size = 0
+      	Characteristic_Color = 1
+      	
+      END
+      
+      // Declare an AWP context
+      ConfigureAWPContext(ctxDisk, ctxIDCookieURL)
+      
+      // Create/Open the database
+      HCreationIfNotFound("*")
+      
+      // Initialize the internal component for ECommerce management
+      SET_ECommerce.InitializeEBusiness()
+      
+      // Initialize the internal component for managing the customer section
+      SET_CustomerAccounts.InitializeCustomerManagement()
+      
+      // In this project, 2 decimals are supported for the prices
+      SET_ECommerce.gnNbDecimals = 2
+      // Initialization of pages
+      pEcommercePages.PageInitialization()
+      // Declare the project pages called from the "e-commerce site" section
+      SET_ECommerce.gsURLPageViewProduct = PageAddress(product)
+      SET_ECommerce.gsURLBackToStore = PageAddress(store)
+      SET_ECommerce.gsURLGSC = PageAddress(general_sale_conditions)
+      
+      LOCAL
+      let (bResult, sNamePagesErrors) = CheckEcommeceSitePages()
+      dbgAssert(bResult,"URL of unspecified pages: "+sNamePagesErrors)
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196626
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x463b781000037b8b
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : WW_PayBox
+    explorer_type : custom_folder
+    children :
+     -
+       name : PAYBOX
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
